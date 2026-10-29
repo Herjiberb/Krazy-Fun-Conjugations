@@ -1,0 +1,22 @@
+
+                <svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+                    <g id="ketchup-body">
+                        <!-- Red bottle bottom -->
+                        <path d="M60,95 H40 C35,95 35,90 35,90 V60 H65 V90 C65,90 65,95 60,95 Z" fill="#E53935"></path>
+                        <!-- Red bottle top/shoulder -->
+                        <path d="M65,60 H35 C35,55 40,50 40,50 H60 C60,50 65,55 65,60 Z" fill="#E53935"></path>
+                        <!-- Silver neck/cap -->
+                        <path d="M57,50 H43 V25 L50,15 L57,25 V50 Z" fill="#E0E0E0"></path>
+                        <!-- Lid/Tip -->
+                        <rect x="40" y="10" width="20" height="5" rx="2" fill="#B0B0B0"></rect>
+                        <!-- Label/Face Area -->
+                        <rect x="38" y="65" width="24" height="20" fill="#FFF9C4"></rect>
+                    </g>
+                    <g id="face-expressions"><g id="surprised-face" class="mascot-expression">
+                            <circle cx="47" cy="75" r="2.5" fill="#212121"></circle>
+                            <circle cx="53" cy="75" r="2.5" fill="#212121"></circle>
+                            <!-- Open O mouth -->
+                            <circle cx="50" cy="80" r="2" fill="none" stroke="#212121" stroke-width="1.5"></circle>
+                        </g></g>
+                </svg>
+            

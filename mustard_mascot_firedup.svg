@@ -1,0 +1,30 @@
+
+                <svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+                    <!-- Mascot Body -->
+                    <g id="mustard-body">
+                            <!-- Mustard yellow bottom -->
+                            <path d="M60,95 H40 C35,95 35,90 35,90 V60 H65 V90 C65,90 65,95 60,95 Z" fill="#FFD600"></path>
+                            <!-- Mustard yellow top/shoulder -->
+                            <path d="M65,60 H35 C35,55 40,50 40,50 H60 C60,50 65,55 65,60 Z" fill="#FFD600"></path>
+                            <!-- Darker neck/cap -->
+                            <path d="M57,50 H43 V25 L50,15 L57,25 V50 Z" fill="#757575"></path>
+                            <!-- Lid/Tip - Black -->
+                            <rect x="40" y="10" width="20" height="5" rx="2" fill="#212121"></rect>
+                            <!-- Label/Face Area - Darker Yellow/Orange -->
+                            <rect x="38" y="65" width="24" height="20" fill="#FFB300"></rect>
+                        </g>
+                    <!-- Single Active Face Expression (The face content is wrapped in a neutral group for consistent SVG structure) -->
+                    <g id="face-expressions"><g id="mustard-fired-up-face" class="mascot-expression">
+                                <!-- Vertical slit pupils (rage) -->
+                                <line x1="47" x2="47" y1="72" y2="78" stroke="#212121" stroke-width="1.5" stroke-linecap="round"></line>
+                                <line x1="53" x2="53" y1="72" y2="78" stroke="#212121" stroke-width="1.5" stroke-linecap="round"></line>
+                                <circle cx="47" cy="75" r="3.5" fill="none" stroke="#212121" stroke-width="0.5"></circle>
+                                <circle cx="53" cy="75" r="3.5" fill="none" stroke="#212121" stroke-width="0.5"></circle>
+                                <!-- Wide, flat-toothed snarl -->
+                                <rect x="44" y="78" width="12" height="4" fill="white" stroke="#212121" stroke-width="1.5"></rect>
+                                <line x1="46" x2="46" y1="78" y2="82" stroke="#212121" stroke-width="1"></line>
+                                <line x1="50" x2="50" y1="78" y2="82" stroke="#212121" stroke-width="1"></line>
+                                <line x1="54" x2="54" y1="78" y2="82" stroke="#212121" stroke-width="1"></line>
+                            </g></g>
+                </svg>
+            
