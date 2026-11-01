@@ -1,3 +1,38 @@
+/*READING THIS FILE IS NOT RECOMMENDED AS IT CONTAINS VULGAR LANGUAGE FOR CENSORING AND FLAGGING PURPOSES*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 /* Censor engine (extracted from standalone page). Exposes window.processTextDirect(text, level). */
 (function(){
 /* ============================== ENGINE ============================== */
